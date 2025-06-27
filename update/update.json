@@ -4,8 +4,7 @@
       "latest_version": "0.16.0",
       "min_java_version": "17",
       "download_url": "https://github.com/RaulH22/lyriusrpmod/releases/download/0.15.0/lyriusrpmod-0.15.0.jar",
-      "changelog": "https://github.com/RaulH22/lyriusrpmod/releases/tag/0.15.0",
-      "sha256": "20001d6c452e8612a3a81a13fed69b5f0df2bd2fb2fe364115e757f0560e2db0"
+      "changelog": "https://github.com/RaulH22/lyriusrpmod/releases/tag/0.15.0"
     }
   }
 }
