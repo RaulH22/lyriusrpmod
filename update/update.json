@@ -1,11 +1,11 @@
 {
   "1.20.1": {
     "0.16.10": {
-      "latest_version": "0.14.0",
+      "latest_version": "0.15.0",
       "min_java_version": "17",
-      "download_url": "https://github.com/RaulH22/lyriusrpmod/releases/download/0.14.0/lyriusrpmod-0.14.0.jar",
-      "changelog": "https://github.com/RaulH22/lyriusrpmod/releases/tag/0.14.0",
-      "sha256": "35c6be32b290f94a298c51e26ca17c21153143348222ef7dd21813f4422a3837"
+      "download_url": "https://github.com/RaulH22/lyriusrpmod/releases/download/0.15.0/lyriusrpmod-0.15.0.jar",
+      "changelog": "https://github.com/RaulH22/lyriusrpmod/releases/tag/0.15.0",
+      "sha256": "20001d6c452e8612a3a81a13fed69b5f0df2bd2fb2fe364115e757f0560e2db0"
     }
   }
 }
