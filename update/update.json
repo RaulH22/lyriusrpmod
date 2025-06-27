@@ -1,7 +1,7 @@
 {
   "1.20.1": {
     "0.16.10": {
-      "latest_version": "0.15.0",
+      "latest_version": "0.16.0",
       "min_java_version": "17",
       "download_url": "https://github.com/RaulH22/lyriusrpmod/releases/download/0.15.0/lyriusrpmod-0.15.0.jar",
       "changelog": "https://github.com/RaulH22/lyriusrpmod/releases/tag/0.15.0",
