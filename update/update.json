@@ -6,9 +6,9 @@
     "changelog": "https://github.com/RaulH22/lyriusrpmod/releases/tag/0.21.0"
   },
   "1.21.4": {
-    "latest_version": "1.21.4-0.3.6",
+    "latest_version": "1.21.4-0.3.7",
     "min_java_version": "17",
-    "download_url": "https://github.com/RaulH22/lyriusrpmod/releases/download/1.21.4-0.3.6/lyriusrpmod-1.21.4-0.3.6.jar",
-    "changelog": "https://github.com/RaulH22/lyriusrpmod/releases/tag/1.21.4-0.3.6"
+    "download_url": "https://github.com/RaulH22/lyriusrpmod/releases/download/1.21.4-0.3.7/lyriusrpmod-1.21.4-0.3.7.jar",
+    "changelog": "https://github.com/RaulH22/lyriusrpmod/releases/tag/1.21.4-0.3.7"
   }
 }
