@@ -6,9 +6,9 @@
     "changelog": "https://github.com/RaulH22/lyriusrpmod/releases/tag/0.21.0"
   },
   "1.21.4": {
-    "latest_version": "1.21.4-0.3.7",
+    "latest_version": "1.21.4-0.3.8",
     "min_java_version": "17",
-    "download_url": "https://github.com/RaulH22/lyriusrpmod/releases/download/1.21.4-0.3.7/lyriusrpmod-1.21.4-0.3.7.jar",
-    "changelog": "Adicionado efeitos de poções de doenças! \nMudanças no inventario: estação, lua e hora!"
+    "download_url": "https://github.com/RaulH22/lyriusrpmod/releases/download/1.21.4-0.3.8/lyriusrpmod-1.21.4-0.3.8.jar",
+    "changelog": "Agora items dentro de mochila aparecem no tooltip!"
   }
 }
