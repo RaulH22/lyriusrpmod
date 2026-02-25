@@ -6,9 +6,9 @@
     "changelog": "https://github.com/RaulH22/lyriusrpmod/releases/tag/0.21.0"
   },
   "1.21.4": {
-    "latest_version": "1.21.4-0.3.9",
+    "latest_version": "1.21.4-0.3.10",
     "min_java_version": "17",
-    "download_url": "https://github.com/RaulH22/lyriusrpmod/releases/download/1.21.4-0.3.9/lyriusrpmod-1.21.4-0.3.9.jar",
-    "changelog": "- Icones de sede não são mais renderizados com F1.\n- Tootltip de mochilas mostram a quantridade de items.\n- Toottip de mochila com transparencia.\n- Sobreposição de tooltips corrigida ao usar a config REPLACE_LORE."
+    "download_url": "https://github.com/RaulH22/lyriusrpmod/releases/download/1.21.4-0.3.10/lyriusrpmod-1.21.4-0.3.10.jar",
+    "changelog": "- Otimização ao conectar aos servers."
   }
 }
