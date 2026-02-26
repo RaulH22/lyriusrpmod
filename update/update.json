@@ -6,9 +6,9 @@
     "changelog": "https://github.com/RaulH22/lyriusrpmod/releases/tag/0.21.0"
   },
   "1.21.4": {
-    "latest_version": "1.21.4-0.3.10",
+    "latest_version": "1.21.4-0.3.11",
     "min_java_version": "17",
-    "download_url": "https://github.com/RaulH22/lyriusrpmod/releases/download/1.21.4-0.3.10/lyriusrpmod-1.21.4-0.3.10.jar",
-    "changelog": "- Otimização ao conectar aos servers."
+    "download_url": "https://github.com/RaulH22/lyriusrpmod/releases/download/1.21.4-0.3.11/lyriusrpmod-1.21.4-0.3.11.jar",
+    "changelog": "- Bug fix!."
   }
 }
