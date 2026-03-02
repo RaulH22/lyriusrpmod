@@ -6,9 +6,9 @@
     "changelog": "https://github.com/RaulH22/lyriusrpmod/releases/tag/0.21.0"
   },
   "1.21.4": {
-    "latest_version": "1.21.4-0.3.11",
+    "latest_version": "1.21.4-0.3.12",
     "min_java_version": "17",
-    "download_url": "https://github.com/RaulH22/lyriusrpmod/releases/download/1.21.4-0.3.11/lyriusrpmod-1.21.4-0.3.11.jar",
-    "changelog": "- Bug fix!."
+    "download_url": "https://github.com/RaulH22/lyriusrpmod/releases/download/1.21.4-0.3.12/lyriusrpmod-1.21.4-0.3.12.jar",
+    "changelog": "- Adicionado compatibilidade com TLancher."
   }
 }
